@@ -36,7 +36,7 @@ print("Path to dataset files:", path)
 * Sad Recall: 77%
 * Happy Recall: ~82–84%
 
-**Summary:** The model was **biased toward the Happy class**. With class weighting and LR scheduling, recall improved, but overall generalization was limited. This showed the need for transfer learning with deeper architectures.
+The model was **biased toward the Happy class**. With class weighting and LR scheduling, recall improved, but overall generalization was limited. This showed the need for transfer learning with deeper architectures.
 
 ---
 
