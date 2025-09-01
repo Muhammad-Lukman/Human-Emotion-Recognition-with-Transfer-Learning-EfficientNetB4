@@ -1,7 +1,7 @@
 # Human Emotion Recognition with Transfer Learning (EfficientNetB4)
 
 This project implements **human emotion recognition** using deep learning on the [Human Emotions Dataset (Kaggle)](https://www.kaggle.com/datasets/muhammadhananasghar/human-emotions-datasethes).
-We benchmark a **baseline CNN (LeNet)** against a **transfer learning approach (EfficientNetB4)**.
+We benchmark a **baseline CNN (LeNet)** (upload before) against a **transfer learning approach (EfficientNetB4)**.
 
 We implemented Transfer Learning this time and used a pretrained model with CovNet Layers freezed, and added a customized classification head and initialized its weights from scratch.
 
